@@ -1,0 +1,17 @@
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\bin\Debug\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\bin\Debug\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.Form1.resources
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.Properties.Resources.resources
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.csproj.GenerateResource.Cache
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.Properties.Resources.resources
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.csproj.GenerateResource.Cache
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\bin\Debug\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\bin\Debug\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.BlackJackWindow.resources
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Debug\WindowsProjectBlackJack.InstructionPopup.resources

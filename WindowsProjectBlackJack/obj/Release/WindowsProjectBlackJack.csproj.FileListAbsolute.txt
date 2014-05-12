@@ -1,0 +1,17 @@
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\bin\Release\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\bin\Release\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.Form1.resources
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.Properties.Resources.resources
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.csproj.GenerateResource.Cache
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\Local Settings\Application Data\Temporary Projects\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.Properties.Resources.resources
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.csproj.GenerateResource.Cache
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\bin\Release\WindowsProjectBlackJack.exe
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\bin\Release\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.pdb
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.BlackJackWindow.resources
+C:\Documents and Settings\Darian Jeptha\My Documents\Visual Studio 2008\Projects\ConsoleApplication1\ConsoleApplication1\WindowsProjectBlackJack\obj\Release\WindowsProjectBlackJack.InstructionPopup.resources
